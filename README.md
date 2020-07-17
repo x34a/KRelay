@@ -1,6 +1,6 @@
 # KRelay (by Kronks, updated by x34)
 A modular Realm of the Mad God man-in-the-middle Proxy\
-Main github repo: https://github.com/TheKronks/KRelay\
+Main github repo: https://github.com/TheKronks/KRelay \
 
 It's also important to download safe versions of KRelay. Do not download any program which has a high warning on either Jotti or Virustotal\
 Links for this program: \
