@@ -24,7 +24,8 @@ Fix: Launch RotMG or restart the program a couple of times\
 Fix: Wait for 3-4 minutes after launch, then restart after that. Doesn't always work but may fix the issue.
 
 ### How to download
-![Screenshot](images/image2.PNG)\
+![Screenshot](images/image2.PNG)
+
 There are two ways to download:
 - Cloning the repo with git (https://git-scm.com/) or;
 - Downloading the zip/rar file;
