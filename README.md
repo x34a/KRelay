@@ -15,7 +15,7 @@ As a MITM proxy, it allows you to make custom plugins, or use existing plugins. 
 ![Screenshot](images/image.png)
 
 ### Issues
-If there are any updates/problem, upon an issue.
+If there are any updates/problems, open an issue.
 
 ### Known Bugs
 - Not starting proxy\
