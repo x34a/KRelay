@@ -20,7 +20,7 @@ Fix: Wait for 3-4 minutes after launch, then restart after that. Doesn't always 
 ![Screenshot](images/image2.PNG)
 There are two ways to download:\
 - Cloning the repo with git (https://git-scm.com/) or;\
-- Downloading the zip/rar file
+- Downloading the zip/rar file;\
 
-You can clone with git by using the following command:
+You can clone with git by using the following command:;\
 ![Screenshot](images/image3.png)
