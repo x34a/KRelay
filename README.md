@@ -5,8 +5,8 @@ Main github repo: https://github.com/TheKronks/KRelay
 It's also important to download safe versions of KRelay. Do not download any program which has a high warning on either Jotti or Virustotal 
 
 Links for this program: \
-**Virustotal**: https://www.virustotal.com/gui/file/f9ac1441acd3ef43570d5b3073963cfce43b4f8e5b3cdc51c87a4079e31faf48/summary \
-**Jotti**: https://virusscan.jotti.org/en-GB/filescanjob/fkehclsyty \
+**Virustotal**: https://www.virustotal.com/gui/file/2263075dd58d41fab28ff36785630a696b40721ab47d1376df8fe64988e4f250/detection \
+**Jotti**: https://virusscan.jotti.org/en-GB/filescanjob/q4x29qyxqi \
 Feel free to run it through both or either yourself if you are in any worries.
 
 ### What's it's purpose?
