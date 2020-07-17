@@ -10,7 +10,7 @@ As a MITM proxy, it allows you to make custom plugins, or use existing plugins. 
 If there are any updates/problem, upon an issue.
 
 ### Known Bugs
-❂ Not starting proxy\n
-Fix: Launch RotMG and wait a couple of minutes\n
-❂ 3-4 minute wait time.\n
-Fix: Wait for 3-4 minutes after launch, then restart after that. Doesn't always work.\n
+❂ Not starting proxy\
+Fix: Launch RotMG and wait a couple of minutes\
+❂ 3-4 minute wait time.\
+Fix: Wait for 3-4 minutes after launch, then restart after that. Doesn't always work.\
