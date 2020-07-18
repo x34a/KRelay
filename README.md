@@ -2,7 +2,8 @@
 A modular Realm of the Mad God man-in-the-middle Proxy\
 Main github repo: https://github.com/TheKronks/KRelay 
 
-It's also important to download safe versions of KRelay. Do not download any program which has a high warning on either Jotti or Virustotal 
+### Issues
+If there are any updates/problems, open an issue.
 
 Links for this program: \
 **Virustotal**: https://www.virustotal.com/gui/file/2263075dd58d41fab28ff36785630a696b40721ab47d1376df8fe64988e4f250/detection \
@@ -13,9 +14,6 @@ Feel free to run it through both or either yourself if you are in any worries.
 As a MITM proxy, it allows you to make custom plugins, or use existing plugins. These include: trade bots, spam bots etc. You can find Kronk's documentation here: https://github.com/TheKronks/K_Relay_Plugin_Documentation [Requirements: Visual Studio C# (for plugins)]
 
 ![Screenshot](images/image.png)
-
-### Issues
-If there are any updates/problems, open an issue.
 
 ### Known Bugs
 - Not starting proxy\
